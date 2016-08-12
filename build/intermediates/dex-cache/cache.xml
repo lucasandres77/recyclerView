@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_77a343fafb2ebdf60aacbc87ccd7694a9e52a11a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1214c65e002eae0387258436ed222ac958842fd">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_82ed29ab2b2371d9f83e22cca76d59e990b55164/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_8e760ecff72ecb22432a762e16b892fd173d92e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_058de2ce612fc0de347d54fde4152e71c7537151/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_2a2fb831ec91a2c25894263026a9b8c6bcb51186/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_84aa91a4e427bb4fec3bec3ce725c21cbed97810/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53b345239bb89959f4e0c3edb281ce4292445c32">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_72c4d729406f869e130a9c4891108be3db6dee2c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_8e936b549776903bec006144c9d545ed8671ea8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_aaecbc6b427947227cf7ecad0aad460809ec2da4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Practica1ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_9067dc6c9720d7f88441fbdff317a13eaed178bd/classes.dex" />
+    </item>
+
+</items>
